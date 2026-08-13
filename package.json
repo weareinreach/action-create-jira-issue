@@ -17,11 +17,11 @@
 	"author": "@JoeKarow",
 	"license": "ISC",
 	"dependencies": {
-		"@actions/core": "1.10.1",
+		"@actions/core": "1.11.1",
 		"@actions/github": "5.1.1",
 		"axios": "1.6.0",
 		"ffi-napi": "4.0.3",
-		"htmltoadf": "0.1.10",
+		"htmltoadf": "0.1.13",
 		"node-fetch": "3.3.2",
 		"showdown": "2.1.0",
 		"yaml": "2.4.1"
@@ -31,8 +31,8 @@
 		"@octokit/webhooks-types": "6.11.0",
 		"@types/ffi-napi": "4.0.10",
 		"@types/showdown": "2.0.6",
-		"@vercel/ncc": "0.38.1",
-		"eslint": "8.57.0",
+		"@vercel/ncc": "0.45.0",
+		"eslint": "8.57.1",
 		"generate-license-file": "2.0.0",
 		"typescript": "4.9.5"
 	}
